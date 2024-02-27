@@ -1,3 +1,3 @@
 # Application Development and Emerging Technologies
 
-This repository contains the sample code for the course
+NAPAKAGALING MO KURT GRABE
